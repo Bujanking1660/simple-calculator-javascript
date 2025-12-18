@@ -19,8 +19,8 @@ Kalkulator sederhana yang dibangun menggunakan **JavaScript vanilla**. Proyek in
 
 ### Versi Browser (Web UI)
 1. Clone repository ini:
-   ```bash
-   git clone [https://github.com/username-kamu/simple-calculator-javascript.git](https://github.com/username-kamu/simple-calculator-javascript.git)
+```bash
+git clone [https://github.com/username-kamu/simple-calculator-javascript.git](https://github.com/username-kamu/simple-calculator-javascript.git)
 
 ```
 
